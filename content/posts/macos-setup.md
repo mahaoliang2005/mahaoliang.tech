@@ -39,7 +39,7 @@ categories: [tech]
 * 触发脚设置
   * 右下角显示桌面
   * 左上角屏幕保护。在安全和隐私中设置：进入屏幕保护后立即要求输入密码。这样既是屏保又可以锁屏
-  
+ ![](https://cdn.mahaoliang.tech/images/202207231515471.png)
 * 移除Dock上大部分可以用Spotlight唤出的应用。
 
 * 设置Dock自动隐藏，扩大桌面可用区域。
