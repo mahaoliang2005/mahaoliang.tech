@@ -19,7 +19,8 @@ categories: [tech]
 在触控板设置中，勾选“三指轻点”触发查询与数据检查器。
 
 在词典应用的偏好设置中，除了缺省选择的词典，建议增加勾选一个英英词典。用英语解释英语单词，就想我们查汉语词典一样，是一种更地道的学习英语方式。
-<img src="https://cdn.mazhen.tech/images/202207042103599.png" alt="dict" style="zoom: 50%;" />
+
+<img src="https://cdn.mahaoliang.tech/images/202207231537712.png" style="zoom:50%;" />
 
 在任何应用中，都可以通过“三指轻点”，触发词典。因为是系统原生支持，体验丝滑顺畅。
 
@@ -39,7 +40,7 @@ categories: [tech]
 * 触发脚设置
   * 右下角显示桌面
   * 左上角屏幕保护。在安全和隐私中设置：进入屏幕保护后立即要求输入密码。这样既是屏保又可以锁屏
- ![](https://cdn.mahaoliang.tech/images/202207231515471.png)
+   ![](https://cdn.mahaoliang.tech/images/202207231515471.png)
 * 移除Dock上大部分可以用Spotlight唤出的应用。
 
 * 设置Dock自动隐藏，扩大桌面可用区域。
