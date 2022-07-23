@@ -10,7 +10,7 @@ categories: [tech]
 
 打开终端的**偏好设置**，点击**描述文件**tab，将 **Pro** 设置为默认描述文件。
 
-< img src="https://cdn.mazhen.tech/images/202206222053254.png" alt="terminal" style="zoom:40%;" />
+<img src="https://cdn.mazhen.tech/images/202206222053254.png" style="zoom:50%;" />
 
 然后对 **Pro** 进行配置。
 
@@ -109,7 +109,7 @@ plugins=(git zsh-autosuggestions)
 
 在键入命令时，会有灰色的提示信息，按 `→` 或 `ctrl-f` 自动完成。是不是非常方便，用过后就完全离不开了。
 
-< img src="https://cdn.mazhen.tech/images/202206261907246.png" alt="zsh-autosuggestions" style="zoom: 67%;" />
+<img src="https://cdn.mazhen.tech/images/202206261907246.png" style="zoom:67%;" />
 
 
 
